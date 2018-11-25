@@ -1,0 +1,30 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #eee9de;
+}
+
+h1 {
+  font-family: Lato, sans-serif;
+}
+p {
+  font-family: Lato, sans-serif;
+}
+
+img {
+  width: 100%;
+  max-width: 448px;
+  display: block;
+  float: left;
+}
+
+a:hover {
+  background-color: #f33;
+  text-decoration: underline;
+}
