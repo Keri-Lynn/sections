@@ -7,12 +7,14 @@ html {
 }
 
 body {
+  margin: 0;
   background-color: #eee9de;
 }
 
-h1 {
+h2 {
   font-family: Lato, sans-serif;
 }
+
 p {
   font-family: Lato, sans-serif;
 }
